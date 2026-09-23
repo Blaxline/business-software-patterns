@@ -178,19 +178,36 @@ patterns/
 
 examples/
 diagrams/
+```
 
-Contributing
+---
+
+## Contributing
+
 This repository is being developed incrementally from recurring patterns found in real business software.
+
 Patterns should be:
+
 - generally applicable
 - implementation-aware
 - explicit about tradeoffs
 - grounded in operational reality
 - independent of unnecessary framework choices
+
 A pattern should not be added simply because an architecture technique exists.
+
 It should solve a recurring business-software problem.
-About Blaxline
-Blaxline designs, builds, operates and evolves custom business software for important operations that standard tools no longer fit.
+
+---
+
+## About Blaxline
+
+[Blaxline](https://blaxline.com) designs, builds, operates and evolves custom business software for important operations that standard tools no longer fit.
+
 We work from the operation itself: its people, rules, decisions, exceptions, data and systems.
+
 This repository reflects part of the engineering thinking behind that work.
+
+---
+
 <sub>Maintained by Blaxline · Intelligence. By design.</sub>
